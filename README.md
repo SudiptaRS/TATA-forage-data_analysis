@@ -54,7 +54,7 @@ Use conditional formulas (e.g., `IF` statements) or data transformation methods 
 - **Details:** Present all data in a single view without scrolling or hovering, to identify high-demand regions for expansion.
 
 ## Resources
-- **Dataset:** 
+- <a href="https://github.com/SudiptaRS/TATA-forage-data_analysis/blob/main/Online%20Retail%20(1).xlsx">Dataset
 
 
 ## Submission
