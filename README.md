@@ -57,5 +57,3 @@ Use conditional formulas (e.g., `IF` statements) or data transformation methods 
 - <a href="https://github.com/SudiptaRS/TATA-forage-data_analysis/blob/main/Online%20Retail%20(1).xlsx">Dataset
 
 
-## Submission
-Upload your completed `.twbx` or `.pbix` files to the designated location once visualizations are complete.
